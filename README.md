@@ -9,7 +9,7 @@
 <ul><h3>Tópicos</h3>
 <li>JavaScript</li>
 <li>setTimeout</li>
-<li>setInterval</li
+<li>setInterval</li>
 <li>DOM</li>
 <li>function</li>
 <li>Position:Absolute</li>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio do Urso</title>
+    <style>
+        .urso {
+            display: none;
+            margin-bottom: 0px;
+        }
+
+        img {
+            width: 100px;
+        }
+
+        .container {
+            position: relative;
+            width: 90%;
+            margin: auto;
+            border-bottom: 5px solid black;
+            background-color: lightskyblue;
+            border-radius: 5px;
+        }
+        .container h1{
+            text-align: center;
+            padding: 1%;
+        }
+.chao{
+    width:99%;
+    border: green 5px solid;
+    position: absolute;
+    bottom: 0px;
+}
+    </style>
+</head>
+
+<body>
+    <div class="container" id="container">
+        <h1>Desafio do Urso</h1>
+
+        <!--Aprimorando o cache, já carregando as img no navegador, mesmo sem exibir-->
+        <img src="./img/urso1.png" class="urso" alt="">
+        <img src="./img/urso2.png" class="urso" alt="">
+        <img src="./img/urso3.png" class="urso" alt="">
+
+        <div id="margem">
+            <img src="./img/urso1.png" alt="" id="img-urso">            
+        </div>
+        <div class="chao"></div>       
+    </div>
+    <script src="./js/urso.js"></script>
+</body>
+
+</html>

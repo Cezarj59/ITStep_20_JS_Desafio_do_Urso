@@ -1,6 +1,6 @@
 <h2>Atividade ITStep Aula_20 módulo JS_Desafio do Urso.</h2>
 <p>Utilizando temporizadores em JavaScript para fazer o urso se movimentar pela tela.</p>
-<p>Desafio realizado pelo professor para demonstrar o conhecimento adquirido durante a aula 19/20 do módul de JavaScript utilizando Temporizadores.</p>
+<p>Desafio realizado pelo professor para demonstrar o conhecimento adquirido durante a aula 19/20 do módulo de JavaScript utilizando Temporizadores.</p>
 
 <h3>Sobre o Desafio.</h3>
 <p>O desafio consiste em fazer o urso se movimentar até o fim da tela na horizontal e voltar a sua posição inicial.</p>
